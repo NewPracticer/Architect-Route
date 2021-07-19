@@ -22,12 +22,12 @@
 
 
 #### 项目
-| 序号| 内容 | 时长 |当前进度|后续规划|完成时间|
+| 序号| 内容 | 时长 |项目说明|当前进度|后续规划|完成时间|
 | :---: | :----: | :----: |:----: |:----: |:----: |
-| 1 | [秒杀项目样例](https://github.com/NewPracticer/SpikeExample)| 60小时|完成|无|4月
-| 2 | [推荐及搜索样例](https://github.com/NewPracticer/SearchRecommend)| 100小时|完成|构建用户画像|6月
-| 3 | [Flutter项目样例](https://github.com/NewPracticer/FlutterProjectAndRoute)| 5小时|进行中|无|无
-| 4 | [算法与数据结构](https://github.com/NewPracticer/DataStructure)| 60小时|进行中|无|无
+| 1 | [秒杀项目样例](https://github.com/NewPracticer/SpikeExample)| 60小时|电商常见的秒杀方案，从mysql到redis再到rocketmq|完成|无|4月
+| 2 | [推荐及搜索样例](https://github.com/NewPracticer/SearchRecommend)| 100小时|根据用户搜索数据进行相关的推荐|已完成|构建用户画像|6月
+| 3 | [Flutter项目样例](https://github.com/NewPracticer/FlutterProjectAndRoute)| 5小时||进行中|无|无
+| 4 | [算法与数据结构](https://github.com/NewPracticer/DataStructure)| 60小时||进行中|无|无
 | 5 | 人工智能实操案例| 60小时|未开始|无|无
 | 6 | python量化交易| 60小时|未开始|无|无
 | 7 | python人脸识别小程序| 60小时|未开始|无|无
