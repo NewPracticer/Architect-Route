@@ -23,7 +23,7 @@
 
 #### 项目
 | 序号| 内容 | 时长 |项目说明|当前进度|后续规划|完成时间|
-| :---: | :----: | :----: |:----: |:----: |:----: |
+| :---: | :----: | :----: |:----: |:----: |:----: |:----: |
 | 1 | [秒杀项目样例](https://github.com/NewPracticer/SpikeExample)| 60小时|电商常见的秒杀方案，从mysql到redis再到rocketmq|完成|无|4月
 | 2 | [推荐及搜索样例](https://github.com/NewPracticer/SearchRecommend)| 100小时|根据用户搜索数据进行相关的推荐|已完成|构建用户画像|6月
 | 3 | [Flutter项目样例](https://github.com/NewPracticer/FlutterProjectAndRoute)| 5小时||进行中|无|无
