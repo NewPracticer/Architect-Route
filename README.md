@@ -26,8 +26,8 @@
 | :---: | :----: | :----: |:----: |:----: |:----: |
 | 1 | [秒杀项目样例](https://github.com/NewPracticer/SpikeExample)| 60小时|完成|无|4月
 | 2 | [推荐及搜索样例](https://github.com/NewPracticer/SearchRecommend)| 100小时|完成|构建用户画像|6月
-| 3 | [Flutter项目样例](https://gitee.com/sky_1/flutter)| 5小时|进行中|无|无
-| 4 | [算法与数据结构](https://gitee.com/sky_1/algorithm-and-data-architecture)| 60小时|进行中|无|无
+| 3 | [Flutter项目样例](https://github.com/NewPracticer/FlutterProjectAndRoute)| 5小时|进行中|无|无
+| 4 | [算法与数据结构](https://github.com/NewPracticer/DataStructure)| 60小时|进行中|无|无
 | 5 | 人工智能实操案例| 60小时|未开始|无|无
 | 6 | python量化交易| 60小时|未开始|无|无
 | 7 | python人脸识别小程序| 60小时|未开始|无|无
@@ -44,11 +44,11 @@
 | 7 | [Redis学习路线](https://github.com/NewPracticer/RedisRoute)| 37小时|已完成|无|无
 | 8 | 小程序学习路线| 60小时|未开始|无|无
 | 9 | rocketmq学习路径| 60小时|未开始|无|无
-| 10 | [springcloud学习路径](https://gitee.com/sky_1/spring-cloud-alibaba-study-route)| 60小时|进行中|无|无
+| 10 | [springcloud学习路径](https://github.com/NewPracticer/SpringCloudRoute)| 60小时|进行中|无|无
 | 11 | docker k8s学习路径| 60小时|未开始|无|无
 | 12 | mysql学习路径| 60小时|未开始|无|无
 | 13 | python学习路径| 60小时|未开始|无|无
 | 14 | es推荐学习路线| 60小时|未开始|无|无
-| 15 | [Vue学习路径](https://gitee.com/sky_1/vue-route?_sasdk=f%3EA%3D%3F%3FCF)| 72小时|进行中|无|无
+| 15 | [Vue学习路径](https://github.com/NewPracticer/VueProjectAndRoute)| 72小时|进行中|无|无
 
 
