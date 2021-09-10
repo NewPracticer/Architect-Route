@@ -13,7 +13,7 @@
 1. 选取的课程以慕课网和极客时间为基础。
 2. 从课程质量上说，慕课网是视频课程的代表，极客时间是文字课程的代表。
 
-### 已完成时长：700小时
+### 已完成时长：740小时
 
 
 #### 项目
@@ -22,7 +22,7 @@
 | 1 | [秒杀项目样例](https://github.com/NewPracticer/SpikeExample)| 60小时|电商常见的秒杀方案，从mysql到redis再到rocketmq|完成|无|4月
 | 2 | [推荐及搜索样例](https://github.com/NewPracticer/SearchRecommend)| 100小时|根据用户搜索数据进行相关的推荐|已完成|构建用户画像|6月
 | 3 | [Flutter项目样例](https://github.com/NewPracticer/FlutterProjectAndRoute)| 5小时||进行中|无|无
-| 4 | [算法与数据结构](https://github.com/NewPracticer/DataStructure)| 60小时||进行中|无|无
+| 4 | [算法与数据结构](https://github.com/NewPracticer/DataStructure)| 100小时|使用dart语言重写数据结构和算法|进行中|无|无
 | 5 | 人工智能实操案例| 60小时|未开始|无|无
 | 6 | python量化交易| 60小时|未开始|无|无
 | 7 | python人脸识别小程序| 60小时|未开始|无|无
