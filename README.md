@@ -1,6 +1,10 @@
-﻿﻿<div align="center">
-    <img src="asset/sky.png"/>
-</div>
+﻿## To Be Top Architect  -  架构师成神之路
+
+### 概述
+1. 学习是需要路径的。入门，深入，精通，实战，复习。
+2. 选择以项目入手，不停的提升实战项目的难度，在需求中成长，以最快的速度上手技术栈。
+3. 以下课程是在一百多门的自费课程中挑选出来，也是自我学习的记录。
+4. 希望你能从中有所收获。
 
 <div align="center">
 <a href="#"><img src="https://img.shields.io/badge/1000小时-架构师-yellowgreen.svg"/></a>
@@ -22,7 +26,7 @@
 ### :cat: Java
    +  Spring部分
 	    + [Spring 推荐学习路线](https://github.com/NewPracticer/SpringStudyRote)[81小时]
-	    + [springcloud学习路径](https://github.com/NewPracticer/SpringCloudRoute)[60小时]
+	    + [Springcloud学习路径](https://github.com/NewPracticer/SpringCloudRoute)[60小时]
 	    + [秒杀项目样例](https://github.com/NewPracticer/SpikeExample)[60小时]
    +  MySql部分
 	    + mysql学习路径(后续更新)
