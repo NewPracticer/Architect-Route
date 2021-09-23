@@ -10,7 +10,7 @@
 
 | 前端 | 服务端 |算法与数据结构 | 消息中间件 | 高并发 | 大数据 | 人工智能 | 容器及部署 | 操作系统 | 
 | :-----------------------------:      | :----: | :----: | :-----: | :------: | :----------: | :--------------: | :--------: | :--------: | 
-| [:dog:](#dog-前端)  | [:cat:](#cat-Java) | [:sunny:](#sunny-算法与数据结构) | [:yin_yang:](#yin_yang-消息中间件) | [:zap:](#zap-高并发) | [:apple:](#apple-大数据) | [:bamboo:](#bamboo-人工智能) | [:fallen_leaf:](#fallen_leaf-人工智能) | [:cloud:](#cloud-容器及部署) | 
+| [:dog:](#dog-前端)  | [:cat:](#cat-Java) | [:sunny:](#sunny-算法与数据结构) | [:ship:](#ship-消息中间件) | [:zap:](#zap-高并发) | [:ocean:](#ocean-大数据) | [:monkey_face:](#monkey_face-人工智能) | [:fallen_leaf:](#fallen_leaf-人工智能) | [:cloud:](#cloud-容器及部署) | 
 
 
 ### :dog: 前端
@@ -29,7 +29,7 @@
    + [算法与数据结构](https://github.com/NewPracticer/DataStructure)[100小时]
    
    
-### :yin_yang: 消息中间件
+### :ship: 消息中间件
    + [Kafka推荐学习路线](https://github.com/NewPracticer/KafkaStudyRoute) [31小时]
    + [Rabbitmq推荐学习路线](https://github.com/NewPracticer/RabbbitStudy)[39小时]
    + [Redis学习路线](https://github.com/NewPracticer/RedisRoute)[37小时]
@@ -41,12 +41,12 @@
    + [BIO NIO AIO 推荐学习路线](https://github.com/NewPracticer/BIONIOAIO)[37小时]
    + [Netty推荐学习路线](https://github.com/NewPracticer/netty)[53小时]
    
-### :apple: 大数据
+### :ocean: 大数据
    +  python学习路径
    +  es推荐学习路线
    +  [推荐及搜索样例](https://github.com/NewPracticer/SearchRecommend)[100小时]
    
-### :bamboo: 人工智能
+### :monkey_face: 人工智能
    +  人工智能实操案例
    +  python量化交易
    +  python人脸识别小程序
