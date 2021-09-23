@@ -5,7 +5,7 @@
 <div align="center">
     <a href="#"><img src="https://img.shields.io/badge/1000小时-架构师-yellowgreen.svg"/></a>
     <a href="#"><img src="https://img.shields.io/badge/760小时-完成-reen.svg"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/状态-正在更新中...-red.svg"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/状态-持续更新中...-red.svg"/></a>
 </div>
 
 | 前端 | 服务端 |算法与数据结构 | 消息中间件 | 高并发 | 大数据 | 人工智能 | 容器及部署 | 
