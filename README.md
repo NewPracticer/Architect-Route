@@ -10,10 +10,10 @@
 
 | 前端 | 服务端 |算法与数据结构 | 消息中间件 | 高并发 | 大数据 | 人工智能 | 容器及部署 | 操作系统 | 
 | :-----------------------------:      | :----: | :----: | :-----: | :------: | :----------: | :--------------: | :--------: | :--------: | 
-| [:hot_pepper:](#hot_pepper-前端)  | [:eagle:](#eagle-Java) | [:aerial_tramway:](#aerial_tramway-算法与数据结构) | [:yin_yang:](#yin_yang-消息中间件) | [:zap:](#zap-高并发) | [:apple:](#apple-大数据) | [:bamboo:](#bamboo-人工智能) | [:fallen_leaf:](#fallen_leaf-人工智能) | [:fountain_pen:](#fountain_pen-容器及部署) | 
+| [:dog:](#dog-前端)  | [:eagle:](#eagle-Java) | [:aerial_tramway:](#aerial_tramway-算法与数据结构) | [:yin_yang:](#yin_yang-消息中间件) | [:zap:](#zap-高并发) | [:apple:](#apple-大数据) | [:bamboo:](#bamboo-人工智能) | [:fallen_leaf:](#fallen_leaf-人工智能) | [:cloud:](#cloud-容器及部署) | 
 
 
-### :hot_pepper: 前端
+### :dog: 前端
    +  [Vue学习路径](https://github.com/NewPracticer/VueProjectAndRoute)[72小时]
    +  小程序学习路线(后续更新)
  
@@ -51,5 +51,5 @@
    +  python量化交易
    +  python人脸识别小程序
    
-### :fountain_pen: 容器及部署
+### :cloud: 容器及部署
    + docker k8s学习路径
