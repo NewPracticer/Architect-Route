@@ -3,7 +3,9 @@
 </div>
 
 <div align="center">
-    <a href="#"><img src="https://img.shields.io/badge/1000小时-架构师-yellowgreen.svg"/></a>
+<a href="#"><img src="https://img.shields.io/badge/1000小时-架构师-yellowgreen.svg"/></a>
+</div>
+<div align="center">
     <a href="#"><img src="https://img.shields.io/badge/760小时-完成-reen.svg"/></a>
     <a href="#"><img src="https://img.shields.io/badge/状态-持续更新中...-red.svg"/></a>
 </div>
