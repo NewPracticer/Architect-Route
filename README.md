@@ -10,14 +10,14 @@
 
 | 前端 | 服务端 |算法与数据结构 | 消息中间件 | 高并发 | 大数据 | 人工智能 | 容器及部署 | 操作系统 | 
 | :-----------------------------:      | :----: | :----: | :-----: | :------: | :----------: | :--------------: | :--------: | :--------: | 
-| [:dog:](#dog-前端)  | [:eagle:](#eagle-Java) | [:aerial_tramway:](#aerial_tramway-算法与数据结构) | [:yin_yang:](#yin_yang-消息中间件) | [:zap:](#zap-高并发) | [:apple:](#apple-大数据) | [:bamboo:](#bamboo-人工智能) | [:fallen_leaf:](#fallen_leaf-人工智能) | [:cloud:](#cloud-容器及部署) | 
+| [:dog:](#dog-前端)  | [:cat:](#cat-Java) | [:sunny:](#sunny-算法与数据结构) | [:yin_yang:](#yin_yang-消息中间件) | [:zap:](#zap-高并发) | [:apple:](#apple-大数据) | [:bamboo:](#bamboo-人工智能) | [:fallen_leaf:](#fallen_leaf-人工智能) | [:cloud:](#cloud-容器及部署) | 
 
 
 ### :dog: 前端
    +  [Vue学习路径](https://github.com/NewPracticer/VueProjectAndRoute)[72小时]
    +  小程序学习路线(后续更新)
  
-### :eagle: Java
+### :cat: Java
    +  Spring部分
 	    + [Spring 推荐学习路线](https://github.com/NewPracticer/SpringStudyRote)[81小时]
 	    + [springcloud学习路径](https://github.com/NewPracticer/SpringCloudRoute)[60小时]
@@ -25,7 +25,7 @@
    +  MySql部分
 	    + mysql学习路径(后续更新)
 
-### :aerial_tramway: 算法与数据结构
+### :sunny: 算法与数据结构
    + [算法与数据结构](https://github.com/NewPracticer/DataStructure)[100小时]
    
    
