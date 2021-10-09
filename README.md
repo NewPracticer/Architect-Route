@@ -9,7 +9,7 @@
 <a href="#"><img src="https://img.shields.io/badge/1000小时-架构师-yellowgreen.svg"/></a>
 </div>
 <div align="center">
-    <a href="#"><img src="https://img.shields.io/badge/760小时-完成-reen.svg"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/800小时-完成-reen.svg"/></a>
     <a href="#"><img src="https://img.shields.io/badge/状态-持续更新中...-red.svg"/></a>
 </div>
 
@@ -60,5 +60,5 @@
    + docker k8s学习路径
    
 ### :hatching_chick: 混合App
-   + Vue 和 Android 原生混合开发
+   + [Vue 和 Android 原生混合开发](https://github.com/NewPracticer/Vue-And-Android-Mix)[40小时]
    + uni-app 抖音开发
