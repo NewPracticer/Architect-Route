@@ -11,14 +11,15 @@
     <a href="#"><img src="https://img.shields.io/badge/状态-持续更新中...-red.svg"/></a>
 </div>
 
-| 前端 | 服务端 |算法与数据结构 | 消息中间件 | 高并发 | 大数据 | 人工智能 | 容器及部署 | 混合App|
-| :-----------------------------:      | :----: | :----: | :-----: | :------: | :----------: | :--------------: | :--------: | :--------: |
-| [:dog:](#dog-前端)  | [:cat:](#cat-Java) | [:sunny:](#sunny-算法与数据结构) | [:ship:](#ship-消息中间件) | [:zap:](#zap-高并发) | [:ocean:](#ocean-大数据) | [:monkey_face:](#monkey_face-人工智能) | [:cloud:](#cloud-容器及部署) | [:hatching_chick:](#hatching_chick-混合App)|
+| 前端 | 服务端 |算法与数据结构 | 消息中间件 | 高并发 | 大数据 | 人工智能 | 容器及部署 | 
+| :-----------------------------:      | :----: | :----: | :-----: | :------: | :----------: | :--------------: | :--------: | 
+| [:dog:](#dog-前端)  | [:cat:](#cat-Java) | [:sunny:](#sunny-算法与数据结构) | [:ship:](#ship-消息中间件) | [:zap:](#zap-高并发) | [:ocean:](#ocean-大数据) | [:monkey_face:](#monkey_face-人工智能) | [:cloud:](#cloud-容器及部署) | 
 
 
 ### :dog: 前端
-   +  [Vue学习路径](https://github.com/NewPracticer/VueProjectAndRoute)[72小时]
    +  小程序学习路线(后续更新)
+   +  [Vue 和 Android 原生混合开发](https://github.com/NewPracticer/Vue-And-Android-Mix)[40小时]
+   +  uni-app 抖音开发
  
 ### :cat: Java
    +  Spring部分
@@ -57,6 +58,3 @@
 ### :cloud: 容器及部署
    + docker k8s学习路径
    
-### :hatching_chick: 混合App
-   + [Vue 和 Android 原生混合开发](https://github.com/NewPracticer/Vue-And-Android-Mix)[40小时]
-   + uni-app 抖音开发
