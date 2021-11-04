@@ -7,7 +7,7 @@
 
 
 <div align="center">
-    <a href="#"><img src="https://img.shields.io/badge/800小时-架构师-reen.svg"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/891小时-架构师-reen.svg"/></a>
     <a href="#"><img src="https://img.shields.io/badge/状态-持续更新中...-red.svg"/></a>
 </div>
 
@@ -51,7 +51,7 @@
    +  [推荐及搜索样例](https://github.com/NewPracticer/SearchRecommend)[100小时]
    
 ### :monkey_face: 人工智能
-   +  人工智能前置学习路线
+   +  [人工智能前置学习路线](https://github.com/NewPracticer/Artificial-intelligence-Pre)[91小时]
    +  人工智能实操案例
    +  python量化交易
    +  python人脸识别小程序
