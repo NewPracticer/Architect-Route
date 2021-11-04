@@ -51,6 +51,7 @@
    +  [推荐及搜索样例](https://github.com/NewPracticer/SearchRecommend)[100小时]
    
 ### :monkey_face: 人工智能
+   +  人工智能前置学习路线
    +  人工智能实操案例
    +  python量化交易
    +  python人脸识别小程序
