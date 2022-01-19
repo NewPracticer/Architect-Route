@@ -38,13 +38,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="1237" />
+          <entry key="md" value="1263" />
           <entry key="txt" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1237" />
+          <entry key="Markdown" value="1263" />
           <entry key="PLAIN_TEXT" value="29" />
         </counts>
       </usages-collector>
@@ -56,8 +56,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="350">
-                <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+              <first_editor relative-caret-position="75">
+                <caret line="3" column="154" selection-start-line="3" selection-start-column="154" selection-end-line="3" selection-end-column="154" />
               </first_editor>
               <second_editor />
             </state>
@@ -225,7 +225,7 @@
       <workItem from="1635473089414" duration="3098000" />
       <workItem from="1635994237585" duration="8951000" />
       <workItem from="1637047004943" duration="5026000" />
-      <workItem from="1642582073812" duration="912000" />
+      <workItem from="1642582073812" duration="1190000" />
     </task>
     <task id="LOCAL-00001" summary="混合app">
       <created>1633753384445</created>
@@ -252,7 +252,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37151000" />
+    <option name="totallyTimeSpent" value="37429000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -341,8 +341,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="350">
-            <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <first_editor relative-caret-position="75">
+            <caret line="3" column="154" selection-start-line="3" selection-start-column="154" selection-end-line="3" selection-end-column="154" />
           </first_editor>
           <second_editor />
         </state>
