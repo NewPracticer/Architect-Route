@@ -5,7 +5,7 @@
 | [:dog:](#dog-前端)  | [:cat:](#cat-Java) | [:sunny:](#sunny-算法与数据结构) | [:ship:](#ship-消息中间件) | [:zap:](#zap-高并发) | [:ocean:](#ocean-大数据) | [:monkey_face:](#monkey_face-人工智能) | [:cloud:](#cloud-容器及部署) | [:hole:](#hole-面试)
 
 ## 架构师思路变更 2022/1/19
-+ 一直以来认为架构师就是精深的全栈工程师。经过最近一个月的学习，有个不同的想法，架构应该是基于现有的团队，人员配置，资金成本，技术栈，提出最优的解决方案。
++ 一直以来认为架构师就是精深的全栈工程师。经过最近一个月的学习，有个不同的想法，架构应该是以架构设计理论和思想为根本，基于现有的团队，人员配置，资金成本，技术栈，提出最优的解决方案。
 + 最优的解决方案不一定是最好的解决方案，但一定是最适合现状的解决方案
 + 所以从今天开始，准备两步走，不再拘泥于具体的技术栈，选择学习和分享架构思想。
 
@@ -56,8 +56,8 @@
    +  python人脸识别小程序
    
 ### :cloud: 容器及部署
-   + docker k8s学习路径
+   + [docker k8s学习路径](https://github.com/NewPracticer/container)
 
 ### :hole: 面试
-   + [面试](https://github.com/NewPracticer/Interview)[120小时]
+   + [面试](https://github.com/NewPracticer/Interview)[180小时]
    
