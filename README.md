@@ -13,7 +13,7 @@
 1. 选择以项目入手，不停的提升实战项目的难度，在需求中成长，以最快的速度上手技术栈。
 2. 以下课程是在一百多门的自费课程中挑选出来，也是自学的记录。
 3. 希望你能从中有所收获。
-4. 目前已完成1067小时学习整理。持续更新中
+4. 目前已完成1087小时学习整理。持续更新中
 
 ### :dog: 前端
    +  小程序学习路线(后续更新)
@@ -45,7 +45,7 @@
    + [Netty推荐学习路线](https://github.com/NewPracticer/netty)[53小时]
    
 ### :ocean: 大数据
-   +  [python学习路径](https://github.com/NewPracticer/python_study_route)[51小时]
+   +  [python学习路径](https://github.com/NewPracticer/python_study_route)[71小时]
    +  es推荐学习路线
    +  [推荐及搜索样例](https://github.com/NewPracticer/SearchRecommend)[100小时]
    
