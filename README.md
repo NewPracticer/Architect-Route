@@ -1,8 +1,8 @@
 ﻿# To Be Top Architect  -  架构师之路
 
-| 前端 | 服务端 |算法与数据结构 | 消息中间件 | 高并发 | 大数据 | 人工智能 | 容器及部署 | 面试| 架构思想| 
-| :-----------------------------:      | :----: | :----: | :-----: | :------: | :----------: | :--------------: | :--------: |  :--------: | :--------: | 
-| [:dog:](#dog-前端)  | [:cat:](#cat-Java) | [:sunny:](#sunny-算法与数据结构) | [:ship:](#ship-消息中间件) | [:zap:](#zap-高并发) | [:ocean:](#ocean-大数据) | [:monkey_face:](#monkey_face-人工智能) | [:cloud:](#cloud-容器及部署) | [:hole:](#hole-面试)
+| 前端 | 服务端 |算法与数据结构 | 消息中间件 | 高并发 | 大数据 | 人工智能 | 容器及部署 | 面试| 架构思想| 实战项目
+| :-----------------------------:      | :----: | :----: | :-----: | :------: | :----------: | :--------------: | :--------: |  :--------: | :--------: | :--------: | 
+| [:dog:](#dog-前端)  | [:cat:](#cat-Java) | [:sunny:](#sunny-算法与数据结构) | [:ship:](#ship-消息中间件) | [:zap:](#zap-高并发) | [:ocean:](#ocean-大数据) | [:monkey_face:](#monkey_face-人工智能) | [:cloud:](#cloud-容器及部署) | [:hole:](#hole-面试)| | [:snail:](#snail-实战项目)
 
 ## 架构师思路变更 2022/1/19
 + 一直以来认为架构师就是精深的全栈工程师。经过最近一个月的学习，有个不同的想法，架构应该是以架构设计理论和思想为根本，基于现有的团队，人员配置，资金成本，技术栈，提出最优的解决方案。
@@ -17,14 +17,12 @@
 
 ### :dog: 前端
    +  小程序学习路线(后续更新)
-   +  [Vue 和 Android 原生混合开发](https://github.com/NewPracticer/Vue-And-Android-Mix)[40小时]
    +  uni-app 抖音开发
  
 ### :cat: Java
    +  Spring部分
 	    + [Spring 推荐学习路线](https://github.com/NewPracticer/SpringStudyRote)[81小时]
 	    + [Springcloud学习路径](https://github.com/NewPracticer/SpringCloudRoute)[60小时]
-	    + [秒杀项目样例](https://github.com/NewPracticer/SpikeExample)[60小时]
    +  MySql部分
 	    + [Mysql学习路径](https://github.com/NewPracticer/MySQL-Route)
 
@@ -47,7 +45,6 @@
 ### :ocean: 大数据
    +  [python学习路径](https://github.com/NewPracticer/python_study_route)[71小时]
    +  es推荐学习路线
-   +  [推荐及搜索样例](https://github.com/NewPracticer/SearchRecommend)[100小时]
    
 ### :monkey_face: 人工智能
    +  [人工智能前置学习路线](https://github.com/NewPracticer/Artificial-intelligence-Pre)[91小时]
@@ -60,4 +57,9 @@
 
 ### :hole: 面试
    + [面试](https://github.com/NewPracticer/Interview)[180小时]
+
+### :snail: 实战项目
+   +  [推荐及搜索样例](https://github.com/NewPracticer/SearchRecommend)[100小时]
+   +  [秒杀项目样例](https://github.com/NewPracticer/SpikeExample)[60小时]
+   +  [Vue 和 Android 原生混合开发](https://github.com/NewPracticer/Vue-And-Android-Mix)[40小时]
    
