@@ -13,7 +13,7 @@
 1. 选择以项目入手，不停的提升实战项目的难度，在需求中成长，以最快的速度上手技术栈。
 2. 以下课程是在一百多门的自费课程中挑选出来，也是自学的记录。
 3. 希望你能从中有所收获。
-4. 目前已完成1087小时学习整理。持续更新中
+4. 目前已完成1109小时学习整理。持续更新中
 
 ### :dog: 前端
    +  小程序学习路线(后续更新)
@@ -53,7 +53,7 @@
    +  python人脸识别小程序
    
 ### :cloud: 容器及部署
-   + [docker学习路径](https://github.com/NewPracticer/container)[16小时]
+   + [docker学习路径](https://github.com/NewPracticer/container)[34小时]
 
 ### :hole: 面试
    + [面试](https://github.com/NewPracticer/Interview)[180小时]
