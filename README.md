@@ -13,7 +13,7 @@
 1. 选择以项目入手，不停的提升实战项目的难度，在需求中成长，以最快的速度上手技术栈。
 2. 以下课程是在一百多门的自费课程中挑选出来，也是自学的记录。
 3. 希望你能从中有所收获。
-4. 目前已完成1109小时学习整理。持续更新中
+4. 目前已完成1133小时学习整理。持续更新中
 
 ### :dog: 前端
    +  小程序学习路线(后续更新)
@@ -24,7 +24,7 @@
 	    + [Spring 推荐学习路线](https://github.com/NewPracticer/SpringStudyRote)[81小时]
 	    + [Springcloud学习路径](https://github.com/NewPracticer/SpringCloudRoute)[60小时]
    +  MySql部分
-	    + [Mysql学习路径](https://github.com/NewPracticer/MySQL-Route)
+	    + [Mysql学习路径](https://github.com/NewPracticer/MySQL-Route)[24小时]
 
 ### :sunny: 算法与数据结构
    + [算法与数据结构](https://github.com/NewPracticer/DataStructure)[130小时]
