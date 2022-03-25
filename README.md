@@ -13,21 +13,20 @@
 1. 选择以项目入手，不停的提升实战项目的难度，在需求中成长，以最快的速度上手技术栈。
 2. 以下课程是在一百多门的自费课程中挑选出来，也是自学的记录。
 3. 希望你能从中有所收获。
-4. 目前已完成1133小时学习整理。持续更新中
+4. 目前已完成1203小时学习整理。持续更新中
 
 ### :dog: 前端
    +  小程序学习路线(后续更新)
-   +  uni-app 抖音开发
  
 ### :cat: Java
    +  Spring部分
 	    + [Spring 推荐学习路线](https://github.com/NewPracticer/SpringStudyRote)[81小时]
 	    + [Springcloud学习路径](https://github.com/NewPracticer/SpringCloudRoute)[60小时]
    +  MySql部分
-	    + [Mysql学习路径](https://github.com/NewPracticer/MySQL-Route)[24小时]
+	    + [Mysql学习路径](https://github.com/NewPracticer/MySQL-Route)[64小时]
 
 ### :sunny: 算法与数据结构
-   + [算法与数据结构](https://github.com/NewPracticer/DataStructure)[130小时]
+   + [算法与数据结构](https://github.com/NewPracticer/DataStructure)[160小时]
    
    
 ### :ship: 消息中间件
@@ -52,6 +51,8 @@
    +  python量化交易
    +  python人脸识别小程序
    
+   
+   
 ### :cloud: 容器及部署
    + [docker学习路径](https://github.com/NewPracticer/container)[34小时]
 
@@ -63,4 +64,4 @@
    +  [秒杀项目样例](https://github.com/NewPracticer/SpikeExample)[60小时]
    +  [Vue 和 Android 原生混合开发](https://github.com/NewPracticer/Vue-And-Android-Mix)[40小时]
    +  [全栈项目](https://github.com/NewPracticer/fullstackprogram)
-   
+   +  [云原生+边缘计算](5月左右)

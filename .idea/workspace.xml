@@ -16,8 +16,8 @@
     <session id="1181092351">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
-          <entry key="project.open.time.0" value="7" />
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.0" value="8" />
           <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
@@ -25,7 +25,7 @@
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="21" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -44,15 +44,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="2" />
-          <entry key="md" value="1423" />
+          <entry key="gitignore" value="3" />
+          <entry key="md" value="1460" />
           <entry key="txt" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1423" />
-          <entry key="PLAIN_TEXT" value="31" />
+          <entry key="Markdown" value="1460" />
+          <entry key="PLAIN_TEXT" value="32" />
         </counts>
       </usages-collector>
     </session>
@@ -63,8 +63,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="-572">
-                <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+              <first_editor relative-caret-position="227">
+                <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
               </first_editor>
               <second_editor />
             </state>
@@ -74,8 +74,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+            <state relative-caret-position="200">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -108,8 +108,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -127,9 +127,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="671" />
-    <option name="y" value="26" />
-    <option name="width" value="919" />
+    <option name="x" value="-6" />
+    <option name="width" value="1087" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -140,7 +139,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -153,6 +151,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -254,7 +253,8 @@
       <workItem from="1647335701698" duration="1110000" />
       <workItem from="1647418077870" duration="1233000" />
       <workItem from="1647842113742" duration="3000" />
-      <workItem from="1647842156230" duration="66000" />
+      <workItem from="1647842156230" duration="141000" />
+      <workItem from="1648186305460" duration="299000" />
     </task>
     <task id="LOCAL-00001" summary="混合app">
       <created>1633753384445</created>
@@ -281,7 +281,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58907000" />
+    <option name="totallyTimeSpent" value="59281000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -293,10 +293,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="671" y="26" width="919" height="1047" extended-state="0" />
+    <frame x="-6" y="0" width="1087" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22002329" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.187926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -311,7 +311,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32997763" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3457627" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.45310736" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32997763" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -375,8 +375,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="-572">
-            <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <first_editor relative-caret-position="227">
+            <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
           </first_editor>
           <second_editor />
         </state>
@@ -384,8 +384,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        <state relative-caret-position="200">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
