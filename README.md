@@ -9,21 +9,21 @@
 + 最优的解决方案不一定是最好的解决方案，但一定是最适合现状的解决方案
 + 所以从今天开始，准备两步走，不再拘泥于具体的技术栈，选择学习和分享架构思想。
 
-## 1200小时全栈工程师 
+## 1300小时全栈工程师 
 1. 选择以项目入手，不停的提升实战项目的难度，在需求中成长，以最快的速度上手技术栈。
 2. 以下课程是在一百多门的自费课程中挑选出来，也是自学的记录。
 3. 希望你能从中有所收获。
-4. 目前已完成1203小时学习整理。持续更新中
+4. 目前已完成1302小时学习整理。持续更新中
 
 ### :dog: 前端
-   +  小程序学习路线(后续更新)
+   +  [小程序学习路线](https://github.com/NewPracticer/mini_apps_study_route)[89小时]
  
 ### :cat: Java
    +  Spring部分
 	    + [Spring 推荐学习路线](https://github.com/NewPracticer/SpringStudyRote)[81小时]
 	    + [Springcloud学习路径](https://github.com/NewPracticer/SpringCloudRoute)[60小时]
    +  MySql部分
-	    + [Mysql学习路径](https://github.com/NewPracticer/MySQL-Route)[64小时]
+	    + [Mysql学习路径](https://github.com/NewPracticer/MySQL-Route)[74小时]
 
 ### :sunny: 算法与数据结构
    + [算法与数据结构](https://github.com/NewPracticer/DataStructure)[160小时]
