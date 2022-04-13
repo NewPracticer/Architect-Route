@@ -17,7 +17,8 @@
 
 ### :dog: 前端
    +  [小程序学习路线](https://github.com/NewPracticer/mini_apps_study_route)[89小时]
-   +  [uniapp学习记录](https://github.com/NewPracticer/uni-app-study-record)[49小时]
+   +  [uniapp学习记录](https://github.com/NewPracticer/uni-app-study-record)[22小时]
+   +  [CSS学习路径](https://github.com/NewPracticer/css-route)[27小时]
  
 ### :cat: Java
    +  Spring部分
