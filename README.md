@@ -13,12 +13,13 @@
 1. 选择以项目入手，不停的提升实战项目的难度，在需求中成长，以最快的速度上手技术栈。
 2. 以下课程是在一百多门的自费课程中挑选出来，也是自学的记录。
 3. 希望你能从中有所收获。
-4. 目前已完成1351小时学习整理。持续更新中
+4. 目前已完成1369小时学习整理。持续更新中
 
 ### :dog: 前端
    +  [小程序学习路线](https://github.com/NewPracticer/mini_apps_study_route)[89小时]
    +  [uniapp学习记录](https://github.com/NewPracticer/uni-app-study-record)[22小时]
    +  [CSS学习路径](https://github.com/NewPracticer/css-route)[27小时]
+   +  [Vue学习路径](https://github.com/NewPracticer/VueProjectAndRoute)[18小时]
  
 ### :cat: Java
    +  Spring部分
