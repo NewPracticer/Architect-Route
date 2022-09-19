@@ -5,7 +5,7 @@
 | [:dog:](#dog-前端)  | [:cat:](#cat-Java) | [:sunny:](#sunny-算法与数据结构) | [:ship:](#ship-消息中间件) | [:zap:](#zap-高并发) | [:ocean:](#ocean-大数据) | [:monkey_face:](#monkey_face-人工智能) | [:cloud:](#cloud-容器及部署) | [:hole:](#hole-面试) | [:snail:](#snail-实战项目)
 
 
-## 1850小时全栈工程师(持续更新中) 
+## 200小时全栈工程师(持续更新中) 
 1. 选择以项目入手，不停的提升实战项目的难度，在需求中成长，以最快的速度上手技术栈。
 2. 以下课程是在一百多门的自费课程中挑选出来，也是自学的记录。
 3. 希望你能从中有所收获。
@@ -52,6 +52,7 @@
    +  [0pencv学习路线](https://github.com/NewPracticer/OpenCvRoute)[200小时]
    +  [YOLO学习路线](https://github.com/NewPracticer/YoloStudyRoute)[50小时]
    +  [人脸口罩检测](https://github.com/NewPracticer/face-mask-solution)[100小时]
+   +  [医疗相关深度学习](https://github.com/NewPracticer/medical-deep-learning)[150小时][进行中]
    
 ### :cloud: 容器及部署
    + [docker学习路径](https://github.com/NewPracticer/container)[34小时]
